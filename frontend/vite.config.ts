@@ -6,5 +6,6 @@ export default defineConfig({
     build: {
         outDir: "../",
     },
+    base: "/Naskh-Nastaliq-Conversion/",
     plugins: [react()],
 });
